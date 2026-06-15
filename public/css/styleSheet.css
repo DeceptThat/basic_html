@@ -1,0 +1,26 @@
+body{
+    background-color: gray;
+}
+
+#titleBox, footer{
+    background-color: blue;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic, bold;
+    text-align: center;
+    color: white;
+    padding-top: 4px; padding-bottom: 4px;
+    margin: 20px;
+
+}
+
+#topPart, #botPart, #skillChart{
+    background-color: white;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic, bold;
+    /* text-align: center; */
+    /* color: white; */
+     padding: 10px;
+    margin: 20px;
+}
